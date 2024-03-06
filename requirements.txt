@@ -1,0 +1,7 @@
+Flask
+Flask-cors
+Flask-SQLAlchemy
+Flask-JWT-Extended
+flask_restx
+python-decouple
+flask_migrate
